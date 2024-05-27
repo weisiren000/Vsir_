@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weisiren000
+- 👋 Hi, I’m @Vsir_
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -46,7 +46,8 @@ You can click the Preview link to take a look at your changes.
         <img src="your_avatar_url.jpg" alt="Your Avatar" class="avatar">
         <h1>Vsir</h1>
         <h2>Developer / Programmer</h2>
-        <p>Email: your.email@example.com</p>
+        <p>Email1️⃣: vsircxy04@gmail.com</p>
+        <p>Email2️⃣: 3397512180@qq.com</p>
         <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/yourusername">linkedin.com/in/yourusername</a></p>
         <!-- Add more information as needed -->
